@@ -1,0 +1,10 @@
+/**
+*This is a CSS file for th page. (C) Karol Guerrero 2016
+*/
+
+h1 {
+    font-family : san-serif;
+    font-size : 24pt;
+    font-weight :bolder; 
+    color : darkgrey
+}
