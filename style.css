@@ -1,10 +1,23 @@
 /**
 *This is a CSS file for th page. (C) Karol Guerrero 2016
 */
-
+body {
+ text-align: center;   
+}
 h1 {
-    font-family : san-serif;
-    font-size : 24pt;
-    font-weight :bolder; 
-    color : darkgrey
+    border-bottom: 0.25em dashed #fbde89;
+    font-family : san-serif, ariel, fantasy;
+    font-size : 3em;
+    font-weight :bold; 
+    color : darkgrey;
+    padding : 10px;
+    margin-bottom: auto;
+}
+
+p (
+  font-family : san-serif, ariel, fantasy;
+    font-size : 3em;
+)
+div {
+    border : 4px solid red;
 }
